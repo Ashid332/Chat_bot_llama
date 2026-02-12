@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+Lib/
+Scripts/
+etc/
+share/
+pyvenv.cfg
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Streamlit
+.streamlit/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Cache
+.cache/
+
+# Distribution
+*.egg-info/
+dist/
+build/
+
+# Conversation exports
+conversation_*.json
